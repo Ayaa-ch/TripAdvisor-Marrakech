@@ -6,8 +6,6 @@
 
 Web scraping project targeting **TripAdvisor**, focused on the restaurants of **Marrakech**. The pipeline collects the **Top 500 restaurants**, extracts **all their reviews** plus each reviewer's **location**, and ranks the **nationalities** of the visitors.
 
-
-
 ---
 
 ## 📂 Contents
@@ -16,6 +14,7 @@ Web scraping project targeting **TripAdvisor**, focused on the restaurants of **
 TripAdvisor/
 ├── partie_A.ipynb    # Part A : collect the Top 500 restaurants
 ├── partie_B.ipynb    # Part B : reviews, locations & nationalities
+├── output.png        # Chart: Top 15 visitor nationalities
 └── README.md
 ```
 
@@ -54,6 +53,10 @@ TripAdvisor/
 
 **Top nationalities** (unique visitors) :
 🇬🇧 United Kingdom (5 330) · 🇫🇷 France (3 355) · 🇮🇹 Italy (1 629) · 🇺🇸 United States (1 593) · 🇪🇸 Spain (1 330)
+
+<p align="center">
+  <img src="output.png" width="90%" alt="Top 15 nationalities — unique visitors">
+</p>
 
 ---
 
