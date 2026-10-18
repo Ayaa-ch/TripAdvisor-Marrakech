@@ -6,7 +6,7 @@
 
 Web scraping project targeting **TripAdvisor**, focused on the restaurants of **Marrakech**. The pipeline collects the **Top 500 restaurants**, extracts **all their reviews** plus each reviewer's **location**, and ranks the **nationalities** of the visitors.
 
-> ⚠️ Educational project. Scraping runs at a deliberately gentle pace. All data belongs to TripAdvisor — please respect their `robots.txt` and terms of use.
+
 
 ---
 
