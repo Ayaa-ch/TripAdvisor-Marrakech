@@ -73,6 +73,3 @@ Both notebooks resume automatically from their JSON checkpoints — if interrupt
 
 ---
 
-## 📄 Licence
-
-MIT.
